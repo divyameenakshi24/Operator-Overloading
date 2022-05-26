@@ -6,7 +6,7 @@
  ## Algorithm:
 1.Create a class for operator overloading
 
-2.Get inputs for length,breadthandheight of the box fromthe user and then calculate the volume in overloading function
+2.Get inputs for length,breadth and height of the box from the user and then calculate the volume in overloading function
 
 3.After that return a new object for the calculated volume
 
