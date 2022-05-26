@@ -4,8 +4,15 @@
  To write a C# program to find the volume of a box using operator overloading
  
  ## Algorithm:
- 
- 
+1.Create a class for operator overloading
+
+2.Get inputs for length,breadthandheight of the box fromthe user and then calculate the volume in overloading function
+
+3.After that return a new object for the calculated volume
+
+4.Then create a new object to store the return object
+
+5.After that print the calculated volume
  
  ## Program:
  
